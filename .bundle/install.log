@@ -1,0 +1,22 @@
+# Logfile created on 2014-04-23 18:00:43 -0700 by logger.rb/44203
+I, [2014-04-23T18:00:43.812558 #47395]  INFO -- : 0:  i18n (0.6.9) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/i18n-0.6.9.gemspec
+I, [2014-04-23T18:00:43.813332 #47395]  INFO -- : 0:  json (1.8.1) from /Users/max/.rvm/rubies/ruby-2.1.0/lib/ruby/gems/2.1.0/specifications/default/json-1.8.1.gemspec
+I, [2014-04-23T18:00:44.514430 #47395]  INFO -- : 0:  minitest (5.3.3) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/minitest-5.3.3.gemspec
+I, [2014-04-23T18:00:45.744472 #47395]  INFO -- : 0:  thread_safe (0.3.3) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/thread_safe-0.3.3.gemspec
+I, [2014-04-23T18:00:46.468186 #47395]  INFO -- : 0:  tzinfo (1.1.0) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/tzinfo-1.1.0.gemspec
+I, [2014-04-23T18:00:48.799664 #47395]  INFO -- : 0:  activesupport (4.1.0) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/activesupport-4.1.0.gemspec
+I, [2014-04-23T18:00:49.283769 #47395]  INFO -- : 0:  descendants_tracker (0.0.4) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/descendants_tracker-0.0.4.gemspec
+I, [2014-04-23T18:00:49.910679 #47395]  INFO -- : 0:  ice_nine (0.11.0) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/ice_nine-0.11.0.gemspec
+I, [2014-04-23T18:00:50.520440 #47395]  INFO -- : 0:  axiom-types (0.1.1) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/axiom-types-0.1.1.gemspec
+I, [2014-04-23T18:00:50.521006 #47395]  INFO -- : 0:  builder (3.2.2) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/builder-3.2.2.gemspec
+I, [2014-04-23T18:00:51.118472 #47395]  INFO -- : 0:  coercible (1.0.0) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/coercible-1.0.0.gemspec
+I, [2014-04-23T18:00:51.841843 #47395]  INFO -- : 0:  equalizer (0.0.9) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/equalizer-0.0.9.gemspec
+I, [2014-04-23T18:00:52.519742 #47395]  INFO -- : 0:  hashie (2.1.1) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/hashie-2.1.1.gemspec
+I, [2014-04-23T18:00:53.271126 #47395]  INFO -- : 0:  multi_json (1.9.2) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/multi_json-1.9.2.gemspec
+I, [2014-04-23T18:00:53.789119 #47395]  INFO -- : 0:  multi_xml (0.5.5) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/multi_xml-0.5.5.gemspec
+I, [2014-04-23T18:00:55.223337 #47395]  INFO -- : 0:  rack (1.5.2) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/rack-1.5.2.gemspec
+I, [2014-04-23T18:00:56.304141 #47395]  INFO -- : 0:  rack-accept (0.4.5) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/rack-accept-0.4.5.gemspec
+I, [2014-04-23T18:00:57.665622 #47395]  INFO -- : 0:  rack-mount (0.8.3) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/rack-mount-0.8.3.gemspec
+I, [2014-04-23T18:00:58.507106 #47395]  INFO -- : 0:  virtus (1.0.2) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/virtus-1.0.2.gemspec
+I, [2014-04-23T18:00:59.381693 #47395]  INFO -- : 0:  grape (0.7.0) from /Users/max/.rvm/gems/ruby-2.1.0/specifications/grape-0.7.0.gemspec
+I, [2014-04-23T18:00:59.382220 #47395]  INFO -- : 0:  bundler (1.5.1) from /Users/max/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
